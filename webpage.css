@@ -1,5 +1,5 @@
 body {
-  background-color: #191926
+  background: #D0E4F5 url("https://th.bing.com/th/id/R.5c91d5a471762149614ec311f59b2ab0?rik=af1C%2fhjCkYgbNw&riu=http%3a%2f%2fwallpapercave.com%2fwp%2f95y6VNy.jpg&ehk=KrMyr52ko6PEmfszDmiQzMlgp%2fAW16964HxKFCJk%2fbE%3d&risl=&pid=ImgRaw&r=0") no-repeat scroll 0 0;
 }
 h1 {
 color: #FFFFFF;
@@ -8,7 +8,7 @@ color: #FFFFFF;
   text-align: center;
 }
 {
-  color: white;
+  color: black;
   text-align: center;
 }
 p {
